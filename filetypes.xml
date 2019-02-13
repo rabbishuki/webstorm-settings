@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="api" type="PLAIN_TEXT" />
+      <mapping pattern="angular-tree.scss" type="PLAIN_TEXT" />
+      <mapping pattern="_grid-animations.scss" type="PLAIN_TEXT" />
+      <mapping pattern="codepoints" type="PLAIN_TEXT" />
+      <mapping ext="ijmap" type="PLAIN_TEXT" />
+      <mapping pattern="one-time-directive" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>

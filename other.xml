@@ -1,0 +1,66 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="8.11.1" last-modified="1522389974000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.39804772" />
+    <property name="ColorChooser.RecentColors" value="217-83-79-73,,,0-0-0-129,,,22-95-36-255,,,0-0-0-206,,,0-0-0-205,,,255-255-255-205,,,110-128-5-255,,,93-128-48-255,,,55-69-255-255,,,255-29-6-255,,,98-238-92-255,,,44-255-47-255,,,22-95-36-204,,,97-255-41-255,,,165-165-165-255,,,122-122-122-255,,,115-128-44-255,,,224-224-224-255,,,172-172-172-255,,,255-255-255-130" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.61989796" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6896552" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Code" />
+    <property name="FileTemplates.SelectedTemplate" value="JavaScript Implemented Method Body" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="INSPECTION_FILTER_HISTORY" value="css&#10;indent" />
+    <property name="InstalledPluginsSearchHistory" value="Settings Repository" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesAngular HTML Template" value="false" />
+    <property name="LayoutCode.rearrangeEntriesECMAScript 6" value="false" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="LayoutCode.rearrangeEntriesSCSS" value="false" />
+    <property name="LayoutCode.rearrangeEntriesTypeScript" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PACKAGE_FILTER" value="node.js&#10;nodejscor" />
+    <property name="PLUGIN_FILTER" value="wakatime&#10;Markdown Support&#10;ra&#10;rainbow&#10;Rainbow Brackets" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="droneserv&#10;tagimagesco&#10;collection&#10;ךשנקך&#10;entity.ts" />
+    <property name="SettingsSearchHistory" value="reposi&#10;tslin&#10;inspect&#10;space&#10;tsli" />
+    <property name="TrendingPluginsSearchHistory" value=".env" />
+    <property name="Vcs.Log.Text.Filter.History" value="*.scss&#10;4e6407f29feb7676814238e277e6fe0c4927eac4" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt.173" value="161e1e2f4d2" />
+    <property name="evlsprt2.173" value="161ae6368ab" />
+    <property name="evlsprt3.181" value="11" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="E:/Work/drone-service/back/droneService/src&#10;E:/Work/drone-service/classes&#10;E:/Work/drone-service/front/webServer&#10;E:/Work/drone-service/front/drones/src&#10;E:/Work/drone-service/back/droneService/package.json&#10;E:/Work/drone-service/front/webServer/src/auth&#10;E:/Work/drone-service/front/webServer/src&#10;E:/Work/drone-service/back/droneService/gulpfile.js&#10;E:/Work/drone-service/front/webServer/gulpfile.js&#10;E:/Work/drone-service&#10;E:/Work/TikTag4/UI&#10;E:/Work/TikTag4&#10;E:/Work/TikTag4/MediaServer/gulpfile.js&#10;E:/Work/TikTag4/Server/gulpfile.js&#10;E:/Work/TikTag2&#10;E:/Work/TikTag4/UI/src&#10;E:/Work/TikTag4/UI/package.json&#10;E:/Work/drone-service/front/drones&#10;E:/Work/drone-service/back/droneService&#10;E:/Work/drone-service/front&#10;E:/Users/shuki gur/Desktop/mongo_find.py&#10;E:/Work/TikTag2/back/searchClasteron&#10;E:/Work/TikTag2/back&#10;C:/Users/shuki gur&#10;E:/Users/shuki gur/Desktop&#10;E:/Work/drones-app&#10;E:/Work/ASP2&#10;C:/Work/flyt/FlytSDK_Web&#10;C:/Work/TikTag2/front/public&#10;C:/Work/ASP2/frontend/editor/publicOLD" />
+    <property name="file.gist.reindex.count" value="630459" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="selected.color.option.type" value="READONLY_FRAGMENT_BACKGROUND" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.TypeScript" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.3156823" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.6284404" />
+    <property name="vcs.log.details.splitter.proportion" value="0.45833334" />
+  </component>
+</application>
