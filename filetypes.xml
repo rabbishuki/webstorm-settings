@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="receive_logs" type="JavaScript" />
       <mapping pattern="wget-log" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
     </extensionMap>
