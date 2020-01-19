@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="receive_logs" type="JavaScript" />
       <mapping pattern="wget-log" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
